@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<LanguageData>
+    
+    
+
+<Torso.label>soina</Torso.label>
+
+<UpperHead.label>buru goikaldea</UpperHead.label>
+
+<FullHead.label>buru osoa</FullHead.label>
+<Eyes.label>begiak</Eyes.label>
+<Teeth.label>hortzak</Teeth.label>
+
+<Mouth.label>ahoa</Mouth.label>
+
+<Arms.label>besoak</Arms.label>
+<Hands.label>eskuak</Hands.label>
+
+<LeftHand.label>ezker eskua</LeftHand.label>
+<RightHand.label>eskuin eskua</RightHand.label>
+
+<Legs.label>hankak</Legs.label>
+
+<Feet.label>oinak</Feet.label>
+
+<FrontLeftPaw.label>ezkerreko aurreko atzamarra</FrontLeftPaw.label>
+<FrontRightPaw.label>eskuineko aurreko atzamarra</FrontRightPaw.label>
+<HeadAttackTool.label>burua jotzeko eskukoa</HeadAttackTool.label>
+
+<FrontLeftLeg.label>aurreko ezkerreko hanka</FrontLeftLeg.label>
+<FrontRightLeg.label>aurreko eskuineko hanka</FrontRightLeg.label>
+<FrontLeftClaws.label>ezkerreko aurreko atzamarrak</FrontLeftClaws.label>
+<FrontRightClaws.label>eskuineko aurreko atzamarrak</FrontRightClaws.label>
+
+<LeftKnifeProtrusion.label>ezkerreko aiztoaren protuberantzia</LeftKnifeProtrusion.label>
+<RightKnifeProtrusion.label>eskuineko aiztoaren protuberantzia</RightKnifeProtrusion.label>
+<CoveredByNaturalArmor.label>hesi naturalaz babestua</CoveredByNaturalArmor.label>
+    
+    <TuskAttackTool.label>letaginak</TuskAttackTool.label>
+<HornAttackTool.label>adarrak</HornAttackTool.label>
+
+<TurtleBeakAttackTool.label>mokoa</TurtleBeakAttackTool.label>
+
+</LanguageData>
