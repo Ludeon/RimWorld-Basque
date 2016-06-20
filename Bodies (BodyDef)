@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha 671 -->
+
+
+<LanguageData>
+
+   
+    
+<Human.label>Gizakia</Human.label>
+
+<QuadrupedAnimalWithPaws.label>lau hankako atzapardun animalia</QuadrupedAnimalWithPaws.label>
+
+<QuadrupedAnimalWithPawsAndTail.label>lau hankako atzapar eta buztandun animalia</QuadrupedAnimalWithPawsAndTail.label>
+    
+    <QuadrupedAnimalWithHooves.label>lau hankako apoadun animalia</QuadrupedAnimalWithHooves.label>
+<QuadrupedAnimalWithHoovesAndHump.label>lau hankako apoa eta konkordun animalia</QuadrupedAnimalWithHoovesAndHump.label>
+    
+    <QuadrupedAnimalWithHoovesAndTusks.label>lau hankako apoa eta letagindun animalia</QuadrupedAnimalWithHoovesAndTusks.label>
+    
+    <QuadrupedAnimalWithHoovesAndHorn.label>lau hankako apoa eta adardun behi-animalia</QuadrupedAnimalWithHoovesAndHorn.label>
+<QuadrupedAnimalWithClawsTailAndJowl.label>lau hankako atzapar bustan eta papadadun animalia</QuadrupedAnimalWithClawsTailAndJowl.label>
+<BeetleLike.label>kakalardoaren antzeko animalia</BeetleLike.label>
+<TurtleLike.label>dordokaren antzeko animalia</TurtleLike.label>
+<MechanicalCentipede.label>ehunzango mekanikoa</MechanicalCentipede.label>
+
+<Snake.label>sugea</Snake.label>
+
+<Monkey.label>tximinoa</Monkey.label>
+
+
+</LanguageData>
