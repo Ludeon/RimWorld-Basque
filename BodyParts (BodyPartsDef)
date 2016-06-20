@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<LanguageData>
+ 
+
+<!-- base -->
+
+    
+    
+<Head.label>Burua</Head.label>
+<Skull.label>Kraneoa</Skull.label>
+<Brain.label>Burmuina</Brain.label>
+
+<LeftEye.label>ezkerreko begia</LeftEye.label>
+<RightEye.label>eskuineko begia</RightEye.label>
+<LeftEar.label>ezkerreko belarria</LeftEar.label>
+
+<RightEar.label>eskuineko belarria</RightEar.label>
+<Nose.label>sudurra</Nose.label>
+
+<Jaw.label>mandibula</Jaw.label>
+
+<Neck.label>lepoa</Neck.label>
+<Torso.label>soina</Torso.label>
+
+<LeftClavicle.label>ezkerreko klabikula</LeftClavicle.label>
+
+<RightClavicle.label>eskuineko klabikula</RightClavicle.label>
+
+<Sternum.label>bularrezurra</Sternum.label>
+<Rib.label>sahiets-hezurra</Rib.label>
+<LeftHumerus.label>ezkerreko humeroa</LeftHumerus.label>
+
+<RightHumerus.label>eskuineko humeroa</RightHumerus.label>
+
+<LeftRadius.label>ezkerreko erradioa</LeftRadius.label>
+
+<RightRadius.label>eskuineko erradioa</RightRadius.label>
+<Pelvis.label>pelbisa</Pelvis.label>
+
+<LeftFemur.label>ezkerreko femurra</LeftFemur.label>
+<RightFemur.label>eskuineko femurra</RightFemur.label>
+<LeftTibia.label>ezkerreko tibia</LeftTibia.label>
+
+<RightTibia.label>eskuineko tibia</RightTibia.label>
+
+<Heart.label>bihotza</Heart.label>
+<LeftLung.label>ezkerreko birika</LeftLung.label>
+<RightLung.label>eskuineko birika</RightLung.label>
+
+<LeftKidney.label>ezkerreko giltzurruna</LeftKidney.label>
+<RightKidney.label>eskuineko giltzurruna</RightKidney.label>
+<Liver.label>gibela</Liver.label>
+
+<Stomach.label>urdaila</Stomach.label>
+<Spine.label>bizkarrezurra</Spine.label>
+
+<LeftShoulder.label>ezkerreko sorbalda</LeftShoulder.label>
+
+<LeftArm.label>eskerreko besoa</LeftArm.label>
+
+<LeftHand.label>ezkerreko eskua</LeftHand.label>
+<LeftHandPinky.label>ezkerreko behatz menikea</LeftHandPinky.label>
+
+<LeftHandRingFinger.label>ezkerreko behatz anularra</LeftHandRingFinger.label>
+<LeftHandMiddleFinger.label>ezkerreko bihotz behatza</LeftHandMiddleFinger.label>
+
+<LeftHandIndexFinger.label>ezkerreko behatz indizea</LeftHandIndexFinger.label>
+<LeftHandThumb.label>ezkerreko behatz potoloa</LeftHandThumb.label>
+<RightShoulder.label>eskuineko sorbalda</RightShoulder.label>
+<RightArm.label>eskuineko besoa</RightArm.label>
+<RightHand.label>eskuineko eskua</RightHand.label>
+<RightHandPinky.label>eskuineko behatz meñikea</RightHandPinky.label>
+
+<RightHandRingFinger.label>eskuineko behatz anularra</RightHandRingFinger.label>
+<RightHandMiddleFinger.label>eskuineko bihotz behatza</RightHandMiddleFinger.label>
+<RightHandIndexFinger.label>eskuineko behatz indizea</RightHandIndexFinger.label>
+
+<RightHandThumb.label>eskuineko behatz potoloa</RightHandThumb.label>
+
+<LeftLeg.label>ezkerreko hanka</LeftLeg.label>
+<LeftFoot.label>ezkerreko oina</LeftFoot.label>
+<LeftFootLittleToe.label>ezker oineko behatz meñikea</LeftFootLittleToe.label>
+<LeftFootFourthToe.label>ezker oineko laugarren behatza</LeftFootFourthToe.label>
+<LeftFootMiddleToe.label>ezker oineko erdiko behatza </LeftFootMiddleToe.label>
+
+<LeftFootSecondToe.label>ezker oineko bigarren behatza</LeftFootSecondToe.label>
+<LeftFootBigToe.label>ezker oineko behatz potoloa</LeftFootBigToe.label>
+<RightLeg.label>eskuineko hanka</RightLeg.label>
+<RightFoot.label>eskuineko oina</RightFoot.label>
+
+<RightFootLittleToe.label>eskuin oineko behatz meñikea</RightFootLittleToe.label>
+<RightFootFourthToe.label>eskuin oineko laugarren behatza</RightFootFourthToe.label>
+<RightFootMiddleToe.label>eskuin oineko erdiko behatza</RightFootMiddleToe.label>
+<RightFootSecondToe.label>eskuin oineko bigarren behatza</RightFootSecondToe.label>
+<RightFootBigToe.label>eskuin oineko behatz potoloa</RightFootBigToe.label>
+
+
+<!-- animal -->
+
+<InsectHead.label>Burua</InsectHead.label>
+<SnakeBody.label>Gorputza</SnakeBody.label>
+
+<SnakeHead.label>Burua</SnakeHead.label>
+
+<SnakeMouth.label>ahoa</SnakeMouth.label>
+
+<InsectHeart.label>bihotza</InsectHeart.label>
+<InsectNostril.label>sudur zuloa</InsectNostril.label>
+
+<InsectMouth.label>ahoa</InsectMouth.label>
+<Body.label>gorputza</Body.label>
+<Jowl.label>masaila</Jowl.label>
+<Tail.label>buztana</Tail.label>
+<LeftAntenna.label>ezkerreko antena</LeftAntenna.label>
+
+<RightAntenna.label>eskuineko antena</RightAntenna.label>
+<Pronotum.label>protoraxa</Pronotum.label>
+<Shell.label>exoeskeletoa</Shell.label>
+
+<LeftElytra.label>ezker elitroa</LeftElytra.label>
+<RightElytra.label>eskuin elitroa</RightElytra.label>
+<LeftTusk.label>ezkerreko letagina</LeftTusk.label>
+<RightTusk.label>eskuineko letagina</RightTusk.label>
+<Horn.label>adarra</Horn.label>
+
+<Hump.label>joroba</Hump.label>
+<TurtleShell.label>oskola</TurtleShell.label>
+<Plastron.label>plastrona</Plastron.label>
+<TurtleBeak.label>mokoa</TurtleBeak.label>
+
+
+<!-- animals legs -->
+
+
+<FrontLeftLeg.label>ezkerreko aurreko hanka</FrontLeftLeg.label>
+
+<FrontRightLeg.label>eskuineko aurreko hanka</FrontRightLeg.label>
+
+<MiddleLeftLeg.label>erdiko ezkerreko hanka</MiddleLeftLeg.label>
+<MiddleRightLeg.label>erdiko eskuineko hanka</MiddleRightLeg.label>
+
+<RearLeftLeg.label>atzeko ezkerreko hanka</RearLeftLeg.label>
+
+<RearRightLeg.label>atzeko eskuineko hanka</RearRightLeg.label>
+<FrontLeftInsectLeg.label>aurreko ezkerreko intsektu hanka</FrontLeftInsectLeg.label>
+
+<FrontRightInsectLeg.label>aurreko eskuineko intsektu hanka</FrontRightInsectLeg.label>
+<MiddleLeftInsectLeg.label>erdiko ezkerreko intsektu hanka</MiddleLeftInsectLeg.label>
+<MiddleRightInsectLeg.label>erdiko eskuineko intsektu hanka</MiddleRightInsectLeg.label>
+<RearLeftInsectLeg.label>atzeko ezkerreko intsektu hanka</RearLeftInsectLeg.label>
+<RearRightInsectLeg.label>atzeko eskuineko intsektu hanka</RearRightInsectLeg.label>
+
+<FrontLeftPaw.label>aurreko ezkerreko atzamarra</FrontLeftPaw.label>
+<FrontRightPaw.label>aurreko eskuineko atamarra</FrontRightPaw.label>
+
+<RearLeftPaw.label>ateko ezkerreko atzamarra</RearLeftPaw.label>
+
+<RearRightPaw.label>atzeko eskuineko atzamarra</RearRightPaw.label>
+
+<FrontLeftHoof.label>aurreko ezkerreko apatxa</FrontLeftHoof.label>
+<FrontRightHoof.label>aurreko eskuineko apatxa</FrontRightHoof.label>
+<RearLeftHoof.label>atzeko ezkerreko atzamarra</RearLeftHoof.label>
+<RearRightHoof.label>atzeko eskuineko atzamarra</RearRightHoof.label>
+
+<FrontLeftLegFirstClaw.label>aurreko ezkerreko hankako lehen atzamarra</FrontLeftLegFirstClaw.label>
+<FrontLeftLegSecondClaw.label>aurreko ezkerreko hankako bigarren atzamarra</FrontLeftLegSecondClaw.label>
+
+<FrontLeftLegThirdClaw.label>aurreko ezkerreko hankako hirugarren atzamarra</FrontLeftLegThirdClaw.label>
+<FrontLeftLegFourthClaw.label>aurreko ezkerreko hankako laugarrenatzamarra</FrontLeftLegFourthClaw.label>
+<FrontLeftLegFifthClaw.label>aurreko ezkerreko hankako bosgarren atzamarra</FrontLeftLegFifthClaw.label>
+
+<FrontRightLegFirstClaw.label>aurreko eskuineko hankako lehen atzamarra</FrontRightLegFirstClaw.label>
+<FrontRightLegSecondClaw.label>aurreko eskuineko hankako bigarren atzamarra</FrontRightLegSecondClaw.label>
+<FrontRightLegThirdClaw.label>aurreko eskuineko hankako hirugarrena atzamarra</FrontRightLegThirdClaw.label>
+
+<FrontRightLegFourthClaw.label>aurreko eskuineko hankako laugarren atzamarra</FrontRightLegFourthClaw.label>
+
+<FrontRightLegFifthClaw.label>aurreko eskuineko hankako bosgarren atzamarra</FrontRightLegFifthClaw.label>
+
+<RearLeftLegFirstClaw.label>atzeko ezkerreko hankako lehen atzamarra</RearLeftLegFirstClaw.label>
+<RearLeftLegSecondClaw.label>atzeko ezkerreko hankako bigarren atzamarra</RearLeftLegSecondClaw.label>
+<RearLeftLegThirdClaw.label>atzeko ezkerreko hankako hirugarren atzamarra</RearLeftLegThirdClaw.label>
+
+<RearLeftLegFourthClaw.label>atzeko ezkerreko hankako laugarren atzamarra</RearLeftLegFourthClaw.label>
+
+<RearLeftLegFifthClaw.label>atzeko ezkerreko hankako bosgarren atzamarra</RearLeftLegFifthClaw.label>
+<RearRightLegFirstClaw.label>atzeko eskuineko hankako lehen atzamarra</RearRightLegFirstClaw.label>
+<RearRightLegSecondClaw.label>atzeko eskuineko hankako bigarren atzamarra</RearRightLegSecondClaw.label>
+
+<RearRightLegThirdClaw.label>atzeko eskuineko hankako hirugarren atzamarra</RearRightLegThirdClaw.label>
+<RearRightLegFourthClaw.label>atzeko eskuineko hankako laugarren atzamarra</RearRightLegFourthClaw.label>
+<RearRightLegFifthClaw.label>atzeko eskuineko hankako bosgarren atzamarra</RearRightLegFifthClaw.label>
+    
+    
+
+<!-- mechanical -->
+
+    
+    
+<MechanicalThorax.label>torax mekanikoa</MechanicalThorax.label>
+<LeftKnifeProtrusion.label>ezkerreko labana irekidura</LeftKnifeProtrusion.label>
+<RightKnifeProtrusion.label>eskuineko labana irekidura</RightKnifeProtrusion.label>
+<MechanicalNeck.label>lepo mekanikoa</MechanicalNeck.label>
+<MechanicalHead.label>buru mekanikoa</MechanicalHead.label>
+
+<LeftSightSensor.label>ezkerreko sensore optikoa</LeftSightSensor.label>
+<RightSightSensor.label>eskuineko sensore optikoa</RightSightSensor.label>
+
+<LeftHearingSensor.label>ezkerreko sentsore aduitiboa</LeftHearingSensor.label>
+
+<RightHearingSensor.label>eskuineko sentsore auditiboa</RightHearingSensor.label>
+<SmellSensor.label>usaimenezko sentsorea</SmellSensor.label>
+<LeftMechanicalShoulder.label>ezkerreko sorbalda mekanikoa</LeftMechanicalShoulder.label>
+
+<LeftMechanicalArm.label>ezkerreko beso mekanikoa</LeftMechanicalArm.label>
+<LeftMechanicalHand.label>ezkerreko esku mekanikoa</LeftMechanicalHand.label>
+
+<LeftHandMechanicalPinky.label>ezkerreko eskuko meñike mekanikoa</LeftHandMechanicalPinky.label>
+<LeftHandMechanicalRingFinger.label>ezkerreko eskuko behatz anular mekanikoa</LeftHandMechanicalRingFinger.label>
+<LeftHandMechanicalMiddleFinger.label>ezkerreko eskuko bihotz behatz mekanikoa</LeftHandMechanicalMiddleFinger.label>
+<LeftHandMechanicalIndexFinger.label>ezkerreko eskuko behatz indize mekanikoa</LeftHandMechanicalIndexFinger.label>
+
+<LeftHandMechanicalThumb.label>ezkerreko eskuko behatz potolo mekanikoa</LeftHandMechanicalThumb.label> -->
+
+<RightMechanicalShoulder.label>eskuineko sorbalda mekanikoa</RightMechanicalShoulder.label>
+<RightMechanicalArm.label>eskuineko beso mekanikoa</RightMechanicalArm.label>
+<RightMechanicalHand.label>eskuineko esku mekanikoa</RightMechanicalHand.label>
+<!-- <RightHandMechanicalPinky.label>eskuineko esku mekanikoko behatz meñikea</RightHandMechanicalPinky.label>
+
+<RightHandMechanicalRingFinger.label>eskuineko esku mekanikoko behatz anularra</RightHandMechanicalRingFinger.label>
+<RightHandMechanicalMiddleFinger.label>eskuineko esku mekanikoko bihotz behatza</RightHandMechanicalMiddleFinger.label>
+<RightHandMechanicalIndexFinger.label>eskuineko esku mekanikoko behatz indizea</RightHandMechanicalIndexFinger.label>
+
+<RightHandMechanicalThumb.label>eskuineko esku mekanikoko behatz potoloa</RightHandMechanicalThumb.label> -->
+<LeftMechanicalLeg.label>ezkerreko hanka mekanikoa</LeftMechanicalLeg.label>
+
+<LeftMechanicalFoot.label>ezkerreko oin mekanikoa</LeftMechanicalFoot.label>
+<!-- <LeftFootMechanicalLittleToe.label>ezkerreko oin mekanikoko behatz meñikea</LeftFootMechanicalLittleToe.label>
+
+<LeftFootMechanicalFourthToe.label>ezkerreko oin mekanikoko laugarren behatza</LeftFootMechanicalFourthToe.label>
+
+<LeftFootMechanicalMiddleToe.label>ezkerreko oin mekanikoko erdiko behatza</LeftFootMechanicalMiddleToe.label>
+<LeftFootMechanicalSecondToe.label>ezkerreko oin mekanikoko bigarren behatza</LeftFootMechanicalSecondToe.label>
+<LeftFootMechanicalBigToe.label>ezkerreko oin mekanikoko behatz potoloa</LeftFootMechanicalBigToe.label> -->
+
+<RightMechanicalLeg.label>eskuineko hanka mekanikoa</RightMechanicalLeg.label>
+<RightMechanicalFoot.label>eskuineko oin mekanikoa</RightMechanicalFoot.label>
+<!--<RightFootMechanicalLittleToe.label>eskuineko oin mekanikoko behatz meñikea</RightFootMechanicalLittleToe.label>
+
+<RightFootMechanicalFourthToe.label>eskuineko oin mekanikoko laugarren behatza</RightFootMechanicalFourthToe.label>
+
+<RightFootMechanicalMiddleToe.label>eskuineko oin mekanikoko erdiko behatza</RightFootMechanicalMiddleToe.label>
+
+<RightFootMechanicalSecondToe.label>eskuineko oin mekanikoko bigarren behatza</RightFootMechanicalSecondToe.label>
+
+<RightFootMechanicalBigToe.label>eskuineko oin mekanikoko behatz potoloa</RightFootMechanicalBigToe.label> -->
+
+<MechanicalCentipedeBodyFirstRing.label>lehen segmentu korporal mekanikoa</MechanicalCentipedeBodyFirstRing.label>
+<MechanicalCentipedeBodySecondRing.label>bigarren segmentu korporal mekanikoa</MechanicalCentipedeBodySecondRing.label>
+
+<MechanicalCentipedeBodyThirdRing.label>hirugarren segmentu korporal mekanikoa</MechanicalCentipedeBodyThirdRing.label>
+<MechanicalCentipedeBodyFourthRing.label>laugarren segmentu korporal mekanikoa</MechanicalCentipedeBodyFourthRing.label>
+<MechanicalCentipedeBodyFifthRing.label>bosgarren segmentu korporal mekanikoa</MechanicalCentipedeBodyFifthRing.label>
+<MechanicalCentipedeBodySixthRing.label>segarren segmentu korporal mekanikoa</MechanicalCentipedeBodySixthRing.label>
+
+<ArtificialBrain.label>burmuin artifiziala</ArtificialBrain.label>
+    
+
+</LanguageData>
