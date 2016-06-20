@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Compatible vAlpha 671 -->
+<LanguageData>
+    
+    
+
+<!-- ======== Unlandable biomes ==========-->
+
+   
+<Ocean.label>ozeanoa.</Ocean.label>
+    
+<Ocean.description>Itsaso irekia. Arrainentzat hoberena - ez hain ona zuretzat.</Ocean.description>
+
+ 
+ <IceSheet.label>ártico</IceSheet.label>
+    
+<IceSheet.description>Milaka kilometroko lodiera izan dezakeen hizotzeko estalki bat da. Ez dago lurrera edo arroketara iristeko formarik eta horrenbetez ez daude landarerik. Bertan aurkitutako animalia guztiak emigratzen edo guztiz galdurik dabiltza.</IceSheet.description>
+  
+
+<!-- ======== Buildable biomes ==========-->
+
+    
+   
+<AridShrubland.label>Sasi ildor lurraldea</AridShrubland.label>
+    
+<AridShrubland.description>Lurralde lehorra, baina ez basamortu bat bezain beste. Tokian toki, sasiz eta belarrez estalitako lurraldean zehar, zuhaitz gutxi batzuk aurki daitezke. Landareak erresistenteak dira eta animalia dentsitate kantitate moderatu bat dago.</AridShrubland.description>
+
+
+<TemperateForest.label>baso epela</TemperateForest.label>
+
+<TemperateForest.description>Bioma on bat non baso hosto-erorkorrak landa lurrldeekin elkar trukatzen diren. Animalia mota askok betran ematen dute eguna belar eta sasiak jaten.</TemperateForest.description>
+ 
+
+<Desert.label>Basamortua</Desert.label>
+  
+<Desert.description>Zonalde oso lehorra, beroa eta bizi asko ahalbidetzeko gaitasunik gabekoa.</Desert.description>
+
+
+<TropicalRainforest.label>ohian tropikala</TropicalRainforest.label>
+    
+<TropicalRainforest.description>Zuhaitz askoko baso hezea. Landaretza asko egoteak eta animalia basatiek biziraupena eta eraikutza zailagoa egiten dute.</TropicalRainforest.description>
+
+    
+
+<BorealForest.label>baso boreala</BorealForest.label>
+    
+<BorealForest.description>Iparraldeko konifero basoak. Neguak hotzak izan arren, basoek animalia txiki eta handi asko gordetzen dituzte.</BorealForest.description>
+
+
+<Tundra.label>tundra</Tundra.label>
+    
+<Tundra.description>Izoztutako lautada hauek zuhaitz gutxiz eta landareria gutxiagoz orniturik daude. Bertan animalia gutxi daude belarjale zein haragijaleak.</Tundra.description>
+    
+</LanguageData>
