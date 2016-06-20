@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+<!-- Major breaks-->
+
+
+<Berserk.label>Eroturik</Berserk.label>
+
+<Berserk.beginLetterLabel>Eroturik</Berserk.beginLetterLabel>
+<Berserk.beginLetter>{0} brote psikotiko bat izan du eta arrotz bilakatu da.</Berserk.beginLetter>
+
+<Berserk.recoveryMessage> {0} -ren erokera bukatu da.</Berserk.recoveryMessage>
+<Berserk.inspectLine>Lur jota: eroturik</Berserk.inspectLine>
+
+<!-- Minor breaks-->
+
+<DazedWander.label>burua galdurik ibiltzen</DazedWander.label>
+
+<DazedWander.beginLetterLabel>Deskontzertatua</DazedWander.beginLetterLabel>
+<DazedWander.beginLetter>{0} lur jota dago eta norabidea galduta dabil.</DazedWander.beginLetter>
+<DazedWander.recoveryMessage>{0} jada ez dafo norabiderik gabe.</DazedWander.recoveryMessage>
+<DazedWander.inspectLine>Lur jota: norabiderik gabe</DazedWander.inspectLine>
+
+<BingingAlcohol.label>Mozkortzen</BingingAlcohol.label>
+<BingingAlcohol.beginLetterLabel>Mozkorkeria</BingingAlcohol.beginLetterLabel>
+<BingingAlcohol.beginLetter>{0} alkoholarekin mozkortzen dago.</BingingAlcohol.beginLetter>
+<BingingAlcohol.recoveryMessage>{0} jada ez dago mozkortzen.</BingingAlcohol.recoveryMessage>
+
+<BingingAlcohol.inspectLine>Lur jota: mozkortzen</BingingAlcohol.inspectLine>
+
+
+<!-- Special breaks-->
+
+<PanicFlee.label>izuturik ihes egiten</PanicFlee.label>
+<PanicFlee.beginLetterLabel>Izua</PanicFlee.beginLetterLabel>
+<PanicFlee.beginLetter>{0} izuarengatik iheska dabil.</PanicFlee.beginLetter>
+<PanicFlee.recoveryMessage>{0} lasaitu da, jada ez dago ihes egiten.</PanicFlee.recoveryMessage>
+
+<PanicFlee.inspectLine>Lur jota: izuturik ihes egiten</PanicFlee.inspectLine>
+<GiveUpExit.label>Lur jota eta kolonia uzten</GiveUpExit.label>
+<GiveUpExit.beginLetterLabel>Abandonua</GiveUpExit.beginLetterLabel>
+<GiveUpExit.beginLetter>{0} lur jota dago eta kolonia uzten dabil.</GiveUpExit.beginLetter>
+
+<GiveUpExit.recoveryMessage>{0} iritziz aldatu du eta koloniara itzultzen ari da.</GiveUpExit.recoveryMessage>
+
+<GiveUpExit.inspectLine>Lur jota: kolonia uzten dabil.</GiveUpExit.inspectLine>
+
+
+
+</LanguageData>
